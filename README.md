@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAK’CHIPS — site vitrine statique
 
 ## Contenu
@@ -24,3 +25,6 @@ Le formulaire prépare un message vers le numéro `+243 976 125 282` (repris du 
 - Ajouter les prix et formats seulement après validation par le client.
 - Tester le site sur téléphone et ordinateur.
 - Hébergement statique possible avec GitHub Pages ; aucun backend ni base de données n'est requis pour cette version.
+=======
+# makchips
+>>>>>>> c2417fe94a74049978a4230322a1e3de9cb9b02d
